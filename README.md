@@ -1,4 +1,4 @@
-Dialogue Text Summarizer using T5-small
+##Dialogue Text Summarizer using T5-small
 
 A simple dialogue summarization application built by fine-tuning a pretrained T5-small model from Hugging Face. The application takes a conversation as input and generates a concise summary.
 
